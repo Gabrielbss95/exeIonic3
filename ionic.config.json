@@ -1,0 +1,7 @@
+{
+  "name": "AtividadeIonic3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
